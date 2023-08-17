@@ -1,0 +1,17 @@
+header .site-nav {
+    display: flex;
+    justify-content: center;
+    list-style-type: none;
+    border: 1px solid red;
+}
+
+h1,
+h2 {
+    text-align: center;
+
+}
+
+header h2 {
+    text-align: center;
+
+}
